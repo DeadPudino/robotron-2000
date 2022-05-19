@@ -1,6 +1,6 @@
 // 
 // botoes("ID_botão", "ID_input", "Operação_desejada")
-//
+// 
 // BRAÇOS
 botoes("bracosMais", "bracosValue", "Mais");
 botoes("bracosMenos", "bracosValue", "Menos");
